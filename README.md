@@ -39,8 +39,7 @@ I build fast, reliable production systems used in real companies.
 
 <br /><br />
 
-<!-- Modern 3D Contribution Animation -->
-<img src="https://raw.githubusercontent.com/rajeetcodeN/rajeetcodeN/output/github-contribution-grid-snake-dark.svg" alt="3D Snake"/>
+
 
 <br /><br />
 
